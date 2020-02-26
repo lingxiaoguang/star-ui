@@ -1,0 +1,9 @@
+{
+  "name": "star-ui",
+  "version": "0.0.1",
+  "description": "a ui component library",
+  "main": "index.js",
+  "repository": "https://github.com/lingxiaoguang/star-ui",
+  "author": "xuguang.zhai <xuguang.zhai@qunar.com>",
+  "license": "MIT"
+}
